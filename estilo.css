@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: blue;
+    font: normal 20pt Arial;
+}
+main {
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+}
