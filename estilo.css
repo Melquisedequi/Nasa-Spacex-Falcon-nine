@@ -19,3 +19,6 @@ h1#fnn {
 h2#lfd {
     color: blue;
 }
+img.lado {
+    float: left;
+}
